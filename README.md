@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @snp05016
 - 👀 I’m interested in AI and Machine Learning
 - 🌱 I’m currently studying at the University of Alberta
-- 📫 How to reach me --> snp0501606@gmail.com
+- 📫 How to reach me --> snp050106@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm Indian
 
