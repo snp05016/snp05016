@@ -1,3 +1,5 @@
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+
 - 👋 Hi, I’m @snp05016
 - 👀 I’m interested in AI and Machine Learning
 - 🌱 I’m currently studying at the University of Alberta
