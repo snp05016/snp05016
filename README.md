@@ -29,7 +29,7 @@ abstraction stops helping.
 
 ## About
 
-I am a third-year computing science student at the University of Alberta,
+I am a 4th year computing science student at the University of Alberta,
 working mostly on the parts of a system that sit between source code and
 hardware. Compiler design, computer architecture, parallel and distributed
 systems, and operating systems.
