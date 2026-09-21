@@ -1,4 +1,3 @@
-
 <div align="center">
 
 # Saumya Patel
@@ -19,6 +18,7 @@ abstraction stops helping.
 
 ![Followers](https://img.shields.io/github/followers/snp05016?style=flat-square&logo=github&label=Followers)
 ![Stars](https://img.shields.io/github/stars/snp05016?style=flat-square&logo=github&label=Stars)
+![Contributions](https://img.shields.io/badge/Contributions-4,425-181717?style=flat-square&logo=github)
 ![Repos](https://img.shields.io/badge/Public%20repos-28-181717?style=flat-square&logo=github)
 ![Since](https://img.shields.io/badge/On%20GitHub%20since-Feb%202024-181717?style=flat-square&logo=github)
 ![Profile views](https://komarev.com/ghpvc/?username=snp05016&style=flat-square&color=blue)
@@ -77,7 +77,7 @@ subsume each other.
 ![MLIR](https://img.shields.io/badge/MLIR-262D3A?style=flat-square)
 ![ANTLR4](https://img.shields.io/badge/ANTLR4-AE1E1E?style=flat-square)
 ![CMake](https://img.shields.io/badge/CMake-064F8C?style=flat-square&logo=cmake&logoColor=white)
-![Rank](https://img.shields.io/badge/Class%20rank-1st-gold?style=flat-square)
+![Rank](https://img.shields.io/badge/Class%20rank-1st-FFB000?style=flat-square)
 
 A full compiler for the Gazprea language, written in C++ by a team of four.
 Multi-pass frontend doing type checking, symbol resolution, and error
@@ -98,27 +98,33 @@ across 20 modular routers for screening, valuation, and filings ingestion. RAG
 over earnings reports with ChromaDB and PostgreSQL for semantic search. A
 423-test pytest suite runs in CI at a 90.5% pass rate.
 
-### Vortex
+### [Vortex](https://github.com/snp05016/vortex_language)
 
-[![vortex_language](https://github-readme-stats.vercel.app/api/pin/?username=snp05016&repo=vortex_language&theme=transparent&hide_border=true)](https://github.com/snp05016/vortex_language)
+![Top language](https://img.shields.io/github/languages/top/snp05016/vortex_language?style=flat-square)
+![Code size](https://img.shields.io/github/languages/code-size/snp05016/vortex_language?style=flat-square)
+![Last commit](https://img.shields.io/github/last-commit/snp05016/vortex_language?style=flat-square)
 
 A second language implementation in C++, built from scratch outside of
 coursework.
 
-### PSRS, parallel sorting by regular sampling
+### [PSRS, parallel sorting by regular sampling](https://github.com/snp05016/psrs)
 
-[![psrs](https://github-readme-stats.vercel.app/api/pin/?username=snp05016&repo=psrs&theme=transparent&hide_border=true)](https://github.com/snp05016/psrs)
+![Top language](https://img.shields.io/github/languages/top/snp05016/psrs?style=flat-square)
+![Code size](https://img.shields.io/github/languages/code-size/snp05016/psrs?style=flat-square)
+![Last commit](https://img.shields.io/github/last-commit/snp05016/psrs?style=flat-square)
 
 Implementation and write-up of parallel sorting by regular sampling in C and
 C++, with the performance analysis in TeX.
 
 ### macOS side projects
 
-[![DockDwight](https://github-readme-stats.vercel.app/api/pin/?username=snp05016&repo=DockDwight&theme=transparent&hide_border=true)](https://github.com/snp05016/DockDwight)
-[![CustomVolumeHUD](https://github-readme-stats.vercel.app/api/pin/?username=snp05016&repo=CustomVolumeHUD&theme=transparent&hide_border=true)](https://github.com/snp05016/CustomVolumeHUD)
+Small native Swift apps built on and off through 2026.
 
-Small native Swift apps: a pixel-art desktop companion, a replacement volume
-HUD, and matching device-arrival animations.
+| Repo | What it does | |
+|---|---|---|
+| [DockDwight](https://github.com/snp05016/DockDwight) | A pixel Dwight desktop companion | ![](https://img.shields.io/github/last-commit/snp05016/DockDwight?style=flat-square&label=) |
+| [CustomVolumeHUD](https://github.com/snp05016/CustomVolumeHUD) | A replacement volume HUD | ![](https://img.shields.io/github/last-commit/snp05016/CustomVolumeHUD?style=flat-square&label=) |
+| [DeviceArrivalHUD](https://github.com/snp05016/DeviceArrivalHUD) | Pixel arrival animations for connected devices | ![](https://img.shields.io/github/last-commit/snp05016/DeviceArrivalHUD?style=flat-square&label=) |
 
 ---
 
@@ -175,17 +181,17 @@ marketing suggests.
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=snp05016&show_icons=true&theme=transparent&hide_border=true&count_private=true&include_all_commits=true)
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=snp05016&theme=transparent&hide_border=true)
+![Streak](https://streak-stats.demolab.com?user=snp05016&theme=transparent&hide_border=true)
 
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=snp05016&layout=compact&hide_border=true&theme=transparent&langs_count=10)
+![Profile details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=snp05016&theme=github_dark)
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=snp05016&theme=flat&no-frame=true&no-bg=true&column=7&margin-w=8)
+![Repos per language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=snp05016&theme=github_dark)
+![Commits per language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=snp05016&theme=github_dark)
 
-![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=snp05016&theme=github-compact&hide_border=true&area=true)
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=snp05016&theme=github_dark)
+![Productive time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=snp05016&theme=github_dark&utcOffset=-7)
 
-![Commits per language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=snp05016&theme=github)
-![Productive time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=snp05016&theme=github&utcOffset=-7)
+![Trophies](https://github-trophies.vercel.app/?username=snp05016&theme=flat&no-frame=true&no-bg=true&column=7&margin-w=8)
 
 </div>
 
